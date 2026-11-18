@@ -370,8 +370,6 @@ ol {
   height: 34px;
 }
 
-/* Кнопка «Показать ещё» */
-
 .more-button {
   flex-shrink: 0;
   width: 100%;
